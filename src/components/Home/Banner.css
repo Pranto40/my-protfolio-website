@@ -1,0 +1,26 @@
+.heding {
+    border-left: 6px solid #156f5e;
+}
+span {
+    color: #71a43e;
+}
+
+.content h1 {
+    font-size: 2.5rem;
+    font-family: 'Yeseva One', cursive;
+    font-style: normal;
+    font-weight: normal;
+    color: #4f3907;
+    padding-left: 1rem;
+}
+
+.content h2 {
+    font-size: 3.1rem;
+    margin: 1rem 0;
+}
+
+.content p {
+    font-size: 1.6rem;
+    line-height: 2.3rem;
+    font-family: 'Poppins', sans-serif;
+}
