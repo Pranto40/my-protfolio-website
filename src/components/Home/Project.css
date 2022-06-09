@@ -1,0 +1,21 @@
+.box {
+    width: 414px;
+    height: 367px;
+    background-position: top;
+    transition: ease-in-out 3s;
+  }
+.box1{
+    background: url(../../asserts/images/project01.png);
+    background-size: cover;
+}
+.box2{
+    background: url(../../asserts/images/project02.png);
+    background-size: cover;
+}
+.box3{
+    background: url(../../asserts/images/project03.png);
+    background-size: cover;
+}
+.box:hover{
+    background-position: bottom;
+}

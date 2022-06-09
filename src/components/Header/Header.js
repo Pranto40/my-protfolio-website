@@ -6,9 +6,9 @@ import CustomLink from '../CustomLink/CustomLink';
 
 const Header = () => {
     return (
-        <Navbar className='sticky-top' style={{backgroundColor: '#AAFF00'}} collapseOnSelect expand="lg">
+        <Navbar className='sticky-top' style={{backgroundColor: "rgb(19, 236, 236)"}} collapseOnSelect expand="lg">
         <Container>
-        <Link className="navbar-brand" to="/">Grocery Stock</Link>
+        <Link className="navbar-brand" to="/"><span style={{ color: '#000', fontFamily: 'Yeseva One'}}>Dulal Ahammed Pranto</span></Link>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ms-auto mt-3">
