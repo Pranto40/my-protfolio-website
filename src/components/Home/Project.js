@@ -22,7 +22,7 @@ const Project = () => {
                     Express.js, MongoDB
                     </Card.Text>
                     <div>
-                <a target='_blank' className='btn btn-success' href="https://pranto-car-accessories.web.app/">Live Site</a>
+                    <a target='_blank' className='btn btn-success' href="https://pranto-car-accessories.web.app/">Live Site</a>
                 </div>
                 </Card.Body>
             </Card>
